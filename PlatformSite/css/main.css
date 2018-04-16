@@ -1,0 +1,130 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #f4c9c4;
+}
+
+header {
+    position: fixed;
+    margin: 0 0;
+    background-color: #0d0b0b;
+    opacity: 0.8;
+    display: block;
+    height: 40px;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.icon {
+    display: block;
+    position: fixed;
+    margin-left: 5px;
+    margin-top: 5px;
+    z-index: 2;
+}
+
+.mainLink {
+    position: relative;
+
+    margin-left: 100px;
+    margin-right: 0px;
+
+    font-family: Tahoma;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: normal;
+
+    text-decoration: none;
+
+    display: inline-block;
+
+    z-index: 2;
+
+    color: #ecedef;
+}
+
+.mainLink:hover {
+    position: relative;
+
+    margin-left: 100px;
+    margin-right: 0px;
+
+    font-family: Tahoma;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: normal;
+
+    text-decoration: none;
+
+    display: inline-block;
+
+    z-index: 2;
+
+    color: #d6d7dc;
+}
+
+.bg {
+    z-index: 0;
+    opacity: 1.0;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.video {
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    text-align: center;
+    background-color: #ffffff;
+    margin-bottom: 60px;
+}
+
+.conlentclass {
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    text-align: center;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+    height: 480px;
+}
+
+.contentimg {
+    width: 270px;
+    height: 480px;
+    margin: 0 80px;
+}
+
+.downloadtext {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+    height: 50px;
+}
+
+.about {
+    display: block;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.line {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.bgabout {
+    opacity: 0.9;
+    width: 30%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
